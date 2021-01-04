@@ -2,12 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="737dfc68-9be2-45ea-96d2-4f3c055c8792" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.eslintcache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/card/card.component.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/card/card.styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/search-box/search-box.component.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/search-box/search-box.styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.eslintcache" beforeDir="false" afterPath="$PROJECT_DIR$/.eslintcache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/card-list/card-list.component.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/card-list/card-list.component.jsx" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -28,6 +30,7 @@
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -51,7 +54,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1609338195723</updated>
-      <workItem from="1609338198625" duration="9212000" />
+      <workItem from="1609338198625" duration="9846000" />
+      <workItem from="1609749469248" duration="5638000" />
     </task>
     <task id="LOCAL-00001" summary="add card-list component and style">
       <created>1609342375104</created>
@@ -60,7 +64,14 @@
       <option name="project" value="LOCAL" />
       <updated>1609342375104</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="add card component and searchField">
+      <created>1609353536819</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1609353536819</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -71,7 +82,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
@@ -79,6 +92,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="add card-list component and style" />
-    <option name="LAST_COMMIT_MESSAGE" value="add card-list component and style" />
+    <MESSAGE value="add card component and searchField" />
+    <option name="LAST_COMMIT_MESSAGE" value="add card component and searchField" />
   </component>
 </project>
